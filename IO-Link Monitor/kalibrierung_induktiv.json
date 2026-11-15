@@ -1,0 +1,17 @@
+{
+  "port": 0,
+  "dekoder": {
+    "bitoffset": 0,
+    "bitlaenge": 16,
+    "signed": false,
+    "faktor": 1.0,
+    "einheit": "digits",
+    "schaltbit": -1
+  },
+  "kal": {
+    "modus": "stueckweise",
+    "punkte": [],
+    "tara": null,
+    "geaendert": ""
+  }
+}
